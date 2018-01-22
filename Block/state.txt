@@ -1,0 +1,6 @@
+clear D
+A on B
+ontable C
+B on C
+D on A
+handEmpty
