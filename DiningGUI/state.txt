@@ -1,0 +1,13 @@
+philosopher A has nothing on the left hand
+philosopher A has nothing on the right hand
+philosopher B has fork 2 on the left hand
+philosopher B has fork 1 on the right hand
+philosopher C has nothing on the left hand
+philosopher C has nothing on the right hand
+philosopher D has nothing on the left hand
+philosopher D has nothing on the right hand
+philosopher E has nothing on the left hand
+philosopher E has nothing on the right hand
+ontable fork 3
+ontable fork 4
+ontable fork 5

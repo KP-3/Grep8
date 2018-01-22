@@ -1,0 +1,6 @@
+philosopher A is eating
+philosopher C is eating
+philosopher E is eating
+philosopher H is eating
+philosopher K is eating
+philosopher M is eating

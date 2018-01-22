@@ -1,0 +1,60 @@
+philosopher A has nothing on the left hand
+philosopher A has nothing on the right hand
+philosopher B has nothing on the left hand
+philosopher B has nothing on the right hand
+philosopher C has nothing on the left hand
+philosopher C has nothing on the right hand
+philosopher D has nothing on the left hand
+philosopher D has nothing on the right hand
+philosopher E has nothing on the left hand
+philosopher E has nothing on the right hand
+philosopher F has nothing on the left hand
+philosopher F has nothing on the right hand
+philosopher G has nothing on the left hand
+philosopher G has nothing on the right hand
+philosopher H has nothing on the left hand
+philosopher H has nothing on the right hand
+philosopher I has nothing on the left hand
+philosopher I has nothing on the right hand
+philosopher J has nothing on the left hand
+philosopher J has nothing on the right hand
+philosopher K has nothing on the left hand
+philosopher K has nothing on the right hand
+philosopher L has nothing on the left hand
+philosopher L has nothing on the right hand
+philosopher M has nothing on the left hand
+philosopher M has nothing on the right hand
+philosopher N has nothing on the left hand
+philosopher N has nothing on the right hand
+philosopher O has nothing on the left hand
+philosopher O has nothing on the right hand
+philosopher P has nothing on the left hand
+philosopher P has nothing on the right hand
+philosopher Q has nothing on the left hand
+philosopher Q has nothing on the right hand
+philosopher R has nothing on the left hand
+philosopher R has nothing on the right hand
+philosopher S has nothing on the left hand
+philosopher S has nothing on the right hand
+philosopher T has nothing on the left hand
+philosopher T has nothing on the right hand
+ontable fork 1
+ontable fork 2
+ontable fork 3
+ontable fork 4
+ontable fork 5
+ontable fork 6
+ontable fork 7
+ontable fork 8
+ontable fork 9
+ontable fork 10
+ontable fork 11
+ontable fork 12
+ontable fork 13
+ontable fork 14
+ontable fork 15
+ontable fork 16
+ontable fork 17
+ontable fork 18
+ontable fork 19
+ontable fork 20
